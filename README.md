@@ -6,4 +6,6 @@ open command line enter following command <br />
 composer install  <br />
 php public/index.php <br />
 
+Feel free to modify base on your desired output/format 
+
 Created By Clarence Andaya 
