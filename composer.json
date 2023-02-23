@@ -1,0 +1,25 @@
+{
+  "name": "clrkz/psgc-parser",
+  "description": "Parse Philippine Standard Geographic Code Publication to JSON format",
+  "keywords": [
+    "clrkz",
+    "psgc",
+    "psgc-api",
+    "psgc-json",
+    "psgc-sql",
+    "psgc-region",
+    "psgc-province",
+    "psgc-district",
+    "psgc-city",
+    "psgc-municipality",
+    "psgc-barangay"
+  ],
+  "autoload": {
+    "psr-4": {
+      "Clrkz\\": "src/"
+    }
+  },
+  "require": {
+    "phpoffice/phpspreadsheet": "^1.26"
+  }
+}
