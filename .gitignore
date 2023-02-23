@@ -1,2 +1,4 @@
 vendor
 public/publicationFiles
+composer.lock
+sample.json
